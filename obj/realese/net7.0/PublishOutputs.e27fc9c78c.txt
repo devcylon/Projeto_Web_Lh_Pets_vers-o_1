@@ -1,0 +1,13 @@
+C:\Cylon\Cursos\Senai\Projeto_Web_Lh_Pets_versão_1\bin\realese\net7.0\publish\Projeto_Web_Lh_Pets_versão_1.exe
+C:\Cylon\Cursos\Senai\Projeto_Web_Lh_Pets_versão_1\bin\realese\net7.0\publish\appsettings.Development.json
+C:\Cylon\Cursos\Senai\Projeto_Web_Lh_Pets_versão_1\bin\realese\net7.0\publish\appsettings.json
+C:\Cylon\Cursos\Senai\Projeto_Web_Lh_Pets_versão_1\bin\realese\net7.0\publish\Projeto_Web_Lh_Pets_versão_1.dll
+C:\Cylon\Cursos\Senai\Projeto_Web_Lh_Pets_versão_1\bin\realese\net7.0\publish\Projeto_Web_Lh_Pets_versão_1.deps.json
+C:\Cylon\Cursos\Senai\Projeto_Web_Lh_Pets_versão_1\bin\realese\net7.0\publish\Projeto_Web_Lh_Pets_versão_1.runtimeconfig.json
+C:\Cylon\Cursos\Senai\Projeto_Web_Lh_Pets_versão_1\bin\realese\net7.0\publish\Projeto_Web_Lh_Pets_versão_1.pdb
+C:\Cylon\Cursos\Senai\Projeto_Web_Lh_Pets_versão_1\bin\realese\net7.0\publish\System.Data.SqlClient.dll
+C:\Cylon\Cursos\Senai\Projeto_Web_Lh_Pets_versão_1\bin\realese\net7.0\publish\runtimes\win-arm64\native\sni.dll
+C:\Cylon\Cursos\Senai\Projeto_Web_Lh_Pets_versão_1\bin\realese\net7.0\publish\runtimes\win-x64\native\sni.dll
+C:\Cylon\Cursos\Senai\Projeto_Web_Lh_Pets_versão_1\bin\realese\net7.0\publish\runtimes\win-x86\native\sni.dll
+C:\Cylon\Cursos\Senai\Projeto_Web_Lh_Pets_versão_1\bin\realese\net7.0\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Cylon\Cursos\Senai\Projeto_Web_Lh_Pets_versão_1\bin\realese\net7.0\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
